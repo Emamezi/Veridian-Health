@@ -12,5 +12,10 @@ The budget is allocated to drive two primary objectives: 1) to increase the numb
 
 ## Dataset Structure
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
+<div align="center">
+  <img width="65%" alt="image" src="https://github.com/user-attachments/assets/39031a10-5e6e-4df9-ab34-cd89628a499d" />
+</div>
+
+
 
 # Veridian-Health
