@@ -1,10 +1,9 @@
 <div align="center" >
-  
-<img width="327" height="247" alt="Screenshot 2026-05-05 at 1 51 55 PM" src="https://github.com/user-attachments/assets/b8a97372-df6c-419a-ae77-ace390020dbc" />
+  <img width="60%"  alt="image" src="https://github.com/user-attachments/assets/02811ef3-08c8-4d59-ade9-c6bcd65c5299" />
 </div>
 
-# Veridian Health Marketing Insights - Project Overview
-## The goal of this project is to investigate the performance of marketing campaigns at Veridian Health in order to surface recommendations on marketing budget allocation across future campaign categories. 
+## Veridian Health Marketing Insights - Project Overview
+### The goal of this project is to investigate the performance of marketing campaigns at Veridian Health in order to surface recommendations on marketing budget allocation across future campaign categories. 
 
 **Founded in 2016, Veridian Health is a medical insurance company serving over thousands of customers throughout the United States**. **In 2019, they launched a new set of marketing campaign categories** spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. 
 
